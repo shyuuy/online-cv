@@ -77,32 +77,32 @@ experiences:
           4. 与测试人员沟通,完成模块的 bug 定位发现修复工作;<br>
           5. 配合项目经理完成相关任务目标；
 
-projects:
-    title: 项目经历
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+# projects:
+#     title: 个人作品
+#     intro: >
+#       You can list your side projects in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: 个人技能
@@ -156,16 +156,41 @@ certifications:
           details: |
 
 publications:
-    title: 个人作品
+    title: 项目经历
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: 图谱智能搜索产品
+        link: "https://www.cailiaoai.com/"
+        authors: 2023.05 - 至今
+        conference: |
+            国网南瑞和山东产研院项目新型知识和内容检索服务,基于 sprinfboot、redis、es、jwt、nlp、kafka、mq 、图数
+            据、 python、datax、vue 等实现。通过 nlp和 python 对检索内容进行语意分析后对全文 ，问答，知识卡片进行检索
+            展示。<br>
+            产品包括认知智能平台和数据决策机器人。<br>
+            其中认知智能平台基于语义化数据治理方法，将异构到数据关联在一起。通过实体、关系构建起企业的业务语义，包
+            括主数据实体、属性、主要业务事件。从而将将企业内部跨部门、多来源、异结构的数据通过图结构表达起来。为业务人
+            员提供全企业360数据价值。<br>
+            数据决策机器人则通过语义化提问的方式，展现多种形式的数据答案，完成数据驱动决策。百度式提问，实时分析，
+            随时可以查看数据；海量常用指标分析，丰富图标形式、交互式可视化，可从多维度分析与查看指标；<br>
+            主要负责：<br>
+            1. 需求设计;<br>
+            需求确认,需求设计方案制定,实现方案评估等；<br>
+            相关技术文档输出；<br>
+            2. 定制化功能开发;<br>
+            集成rocketmq 异步通信；<br>
+            数据整合生成pdf文件；文件下载预览；<br>
+            soa 服务整合，统一服务入口、统一认证;<br>
+            单点登录服务中台;<br>
+            es 实现全文检索;<br>
+            微信登陆,微信支付,扫码支付,小程序内部支付;<br>
+            图谱数据任务、数据清洗；<br>
+            3. 生产系统运行支持;<br>
+            运行过程中的 需求反馈分析、问题分配团队成员处理;<br>
+            db大数据整理分析与同步;<br>
+            4. 项目部署和维护;<br>
+            代码分支本地打包；<br>
+            容器化和虚机环境项目部署;<br>
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
