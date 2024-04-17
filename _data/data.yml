@@ -56,43 +56,26 @@ career-profile:
 experiences:
     title: 工作经历
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: 北京欧拉认知智能科技有限公司济南分支
+        time: 2021.01 - 至今
+        company: 济南
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          1. 参与产品需求和可行性讨论 ，提出技术可行方案；<br>
+          2. 参与项目功能架构设计；<br>
+          3. 完成相关功服务模块的设计和开发 ，配合前端完成联调；<br>
+          4. 完成测试过程中的 bug 修改；<br>
+          5. 配合运维完成上线服务；<br>
+          6. 线上 bug 即时分析处理；<br>
+          7. 项目相关文档输出；
+      - role: 山东然茜信息科技有限公司
+        time: 2018.08 - 2020.12
+        company: 济南
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          1. 参与相关的系统分析设计,并完成相应文档编制;<br>
+          2. 完成代码开发及测试;<br>
+          3. 负责后期项目维护,以及需求变动进行二次开发;<br>
+          4. 与测试人员沟通,完成模块的 bug 定位发现修复工作;<br>
+          5. 配合项目经理完成相关任务目标；
 
 projects:
     title: 项目经历
