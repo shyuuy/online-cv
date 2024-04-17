@@ -8,16 +8,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 宋海阳
-    tagline: java后端开发
+    name: 姓名
+    tagline: 职业
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: shyuuy@hotmail.com
-    phone: 19921878556
-    timezone: 山东/济南
-    citizenship: 历下区
-    website: 47.103.23.5:8081 #do not add http://
+    email: 邮箱
+    phone: 手机号
+    timezone: 时区
+    citizenship: 地区
+    website: 个人网站 #do not add http://
     linkedin:
     xing:
     github: shyuuy
