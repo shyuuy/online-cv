@@ -123,8 +123,8 @@ projects:
 
 oss:
     title: 个人技能
-    intro: |
-            - 熟悉 JavaEE、SpringMVC 、Shiro、springSecurity 、SpringCloud 、SpringBoot、Mybatis、Jpa等框架；
+    intro: >
+            - 熟悉 JavaEE、SpringMVC 、Shiro、springSecurity 、SpringCloud 、SpringBoot、Mybatis、Jpa等框架；<br>
             - 熟悉 Kafka 、RocketMQ、等中间件；
             - 熟悉 SVN 、Git代码版本管理工具 ；
             - 熟悉 Oracle 、 Mysql 、Pgsql 、Redis 、Elasticsearch 、Solr 等数据库；
