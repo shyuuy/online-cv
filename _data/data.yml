@@ -163,13 +163,13 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 
-# education:
-#     title: 教育经历
-#     info:
-#       - degree: 计算机应用技术
-#         university: 东营科技职业学院
-#         time: 2015 - 2018
-#         details: |
+education:
+    title: 教育经历
+    info:
+      - degree: 计算机应用技术
+        university: 东营科技职业学院
+        time: 2015 - 2018
+        details: |
 #           Describe your study here lorem ipsum dolor sit amet, consectetuer
 #           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
 #           sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -178,17 +178,17 @@ publications:
 #             - Bullet point
 #             - Bullet point
 
-certifications:
-      title: 教育经历
-      list:
-        - name: 计算机应用技术
-          start: 2015
-          end: 2018
-          organization: 东营科技职业学院
-          credentialid: 
-          credentialurl:
-          credentialname: 
-          details: |
+# certifications:
+#       title: 教育经历
+#       list:
+#         - name: 计算机应用技术
+#           start: 2015
+#           end: 2018
+#           organization: 东营科技职业学院
+#           credentialid: 
+#           credentialurl:
+#           credentialname: 
+#           details: |
             
 
 #skills:
