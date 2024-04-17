@@ -28,14 +28,16 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
-    languages:
-      title: 语言
-      info:
-        - idiom: 汉语
-          level: 母语
-
+    #languages:
+    #  title: 语言
+    #  info:
+     #   - idiom: 汉语
+     #     level: 
+      #  - idiom: 英语
+       #   level: 
+          
     interests:
       title: 技能
       info:
