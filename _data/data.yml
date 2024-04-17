@@ -53,28 +53,6 @@ career-profile:
       自学能力强，能够迅速掌握新技术，并灵活应用于实际工作中。在工作中，我注重不断学习和提升自己的能力，为团队的发展
       和公司的进步贡献自己的力量。
 
-skills:
-    title: 个人技能
-    toolset:
-      - name: 1.熟悉 JavaEE、SpringMVC 、Shiro、springSecurity 、SpringCloud 、SpringBoot、Mybatis、Jpa等框架；
-        level: 0%
-      - name: 2.熟悉 Kafka 、RocketMQ、等中间件；
-        level: 
-      - name: 3.熟悉 SVN 、Git代码版本管理工具 ；
-        level: 
-      - name: 4.熟悉 Oracle 、 Mysql 、Pgsql 、Redis 、Elasticsearch 、Solr 等数据库；
-        level: 
-      - name: 5.熟悉 Vue 、ElementUI 、Vant、JS 、uni-app 、H5、Layui、Easyui、Bootstrap、Echarts 等前端技术 ;
-        level: 
-      - name: 6.熟悉 Tomcat 、Nginx 等服务容器 ;
-        level: 
-      - name: 7.熟悉超算云 、天梯 、Devops、Docker、Jenkins 等部署平台 ；
-        level: 
-      - name: 8.了解多线程 ；
-        level: 
-      - name: 9.了解 Datax 、Nacos 、 Gatetay、Seata、Neo4j 、Minio 、nlp 、http-flv等；
-        level: 
-
 experiences:
     title: 工作经历
     info:
@@ -185,61 +163,39 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 
-education:
-    title: 教育经历
-    info:
-      - degree: 计算机应用技术
-        university: 东营科技职业学院
-        time: 2015 - 2018
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+# education:
+#     title: 教育经历
+#     info:
+#       - degree: 计算机应用技术
+#         university: 东营科技职业学院
+#         time: 2015 - 2018
+#         details: |
+#           Describe your study here lorem ipsum dolor sit amet, consectetuer
+#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#           sociis natoque penatibus et magnis dis parturient montes, nascetur
+#           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#           pretium quis, sem.
+#             - Bullet point
+#             - Bullet point
 
 certifications:
       title: 教育经历
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: 计算机应用技术
+          start: 2015
+          end: 2018
+          organization: 东营科技职业学院
+          credentialid: 
+          credentialurl:
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+            
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+#skills:
+ #   title: 个人技能
+  #  toolset:
+   #   - name: 1.熟悉 JavaEE、SpringMVC 、Shiro、springSecurity 、SpringCloud 、SpringBoot、Mybatis、Jpa等框架；
+    #    level: 0%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/shyuuy" target="_blank" rel="nofollow">shyuuy</a>
