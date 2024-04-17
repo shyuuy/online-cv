@@ -128,12 +128,12 @@ oss:
     #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 
-education:
-    title: 教育经历
-    info:
-      - degree: 计算机应用技术
-        university: 东营科技职业学院
-        time: 2015 - 2018
+# education:
+#     title: 教育经历
+#     info:
+#       - degree: 计算机应用技术
+#         university: 东营科技职业学院
+#         time: 2015 - 2018
         # details: |
         #   Describe your study here lorem ipsum dolor sit amet, consectetuer
         #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -150,32 +150,32 @@ certifications:
           start: 2015
           end: 2018
           organization: 东营科技职业学院
-          credentialid: 111
-          credentialurl: 2222
-          credentialname: 33333
+          credentialid: 
+          credentialurl: 
+          credentialname: 统招大专
           details: |
 
-# publications:
-#     title: 个人作品
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+publications:
+    title: 个人作品
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 
 #skills:
