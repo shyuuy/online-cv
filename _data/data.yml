@@ -124,26 +124,26 @@ projects:
 oss:
     title: 个人技能
     intro: >
-      "1. 熟悉 JavaEE、SpringMVC 、Shiro、springSecurity 、SpringCloud 、SpringBoot、Mybatis、Jpa等框架；
-      2. 熟悉 Kafka 、RocketMQ、等中间件；
-      3. 熟悉 SVN 、Git代码版本管理工具 ；
-      4. 熟悉 Oracle 、 Mysql 、Pgsql 、Redis 、Elasticsearch 、Solr 等数据库；
-      5. 熟悉 Vue 、ElementUI 、Vant、JS 、uni-app 、H5、Layui、Easyui、Bootstrap、Echarts 等前端技术 ;
-      6. 熟悉 Tomcat 、Nginx 等服务容器 ;
-      7. 熟悉超算云 、天梯 、Devops、Docker、Jenkins 等部署平台 ；
-      8. 了解多线程；
-      9. 了解 Datax 、Nacos 、 Gatetay、Seata、Neo4j 、Minio 、nlp 、http-flv等；"
-    contributions:
-      - title: 
-        link: "#"
-        tagline: "1. 熟悉 JavaEE、SpringMVC 、Shiro、springSecurity 、SpringCloud 、SpringBoot、Mybatis、Jpa等框架；"
-      - title: 
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+            - 1. 熟悉 JavaEE、SpringMVC 、Shiro、springSecurity 、SpringCloud 、SpringBoot、Mybatis、Jpa等框架；
+            - 2. 熟悉 Kafka 、RocketMQ、等中间件；
+            - 3. 熟悉 SVN 、Git代码版本管理工具 ；
+            - 4. 熟悉 Oracle 、 Mysql 、Pgsql 、Redis 、Elasticsearch 、Solr 等数据库；
+            - 5. 熟悉 Vue 、ElementUI 、Vant、JS 、uni-app 、H5、Layui、Easyui、Bootstrap、Echarts 等前端技术 ;
+            - 6. 熟悉 Tomcat 、Nginx 等服务容器 ;
+            - 7. 熟悉超算云 、天梯 、Devops、Docker、Jenkins 等部署平台 ；
+            - 8. 了解多线程；
+            - 9. 了解 Datax 、Nacos 、 Gatetay、Seata、Neo4j 、Minio 、nlp 、http-flv等；"
+    # contributions:
+    #   - title: 
+    #     link: "#"
+    #     tagline: "1. 熟悉 JavaEE、SpringMVC 、Shiro、springSecurity 、SpringCloud 、SpringBoot、Mybatis、Jpa等框架；"
+    #   - title: 
+    #     link: "#"
+    #     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: 
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    #   - title: 
+    #     link: "#"
+    #     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
