@@ -38,20 +38,11 @@ sidebar:
       #  - idiom: 英语
        #   level: 
           
-    interests:
-      title: 技能
-      info:
-        - item: javaEE
-          link:
-
-        - item: springBoot
-          link:
-
-        - item: springCloud
-          link:
-          
-        - item: es
-          link:
+   # interests:
+    #  title: 技能
+     # info:
+      #  - item: javaEE  springBoot
+       #   link:
 
 career-profile:
     title: 个人优势
@@ -61,8 +52,28 @@ career-profile:
       协作，共同推进项目的进展。同时，我具备较强的适应能力，能够快速适应新的工作环境和任务要求。勤奋刻苦，善于思考，
       自学能力强，能够迅速掌握新技术，并灵活应用于实际工作中。在工作中，我注重不断学习和提升自己的能力，为团队的发展
       和公司的进步贡献自己的力量。
-            - Bullet point
-            - Bullet point
+
+skills:
+    title: 个人技能
+    toolset:
+      - name: 熟悉 JavaEE、SpringMVC 、Shiro、springSecurity 、SpringCloud 、SpringBoot、Mybatis、Jpa等框架；
+        level: 98%
+      - name: 熟悉 Kafka 、RocketMQ、等中间件；
+        level: 98%
+      - name: 熟悉 SVN 、Git代码版本管理工具 ；
+        level: 98%
+      - name: 熟悉 Oracle 、 Mysql 、Pgsql 、Redis 、Elasticsearch 、Solr 等数据库；
+        level: 95%
+      - name: 熟悉 Vue 、ElementUI 、Vant、JS 、uni-app 、H5、Layui、Easyui、Bootstrap、Echarts 等前端技术 ;
+        level: 85%
+      - name: 熟悉 Tomcat 、Nginx 等服务容器 ;
+        level: 60%
+      - name: 熟悉超算云 、天梯 、Devops、Docker、Jenkins 等部署平台 ；
+        level: 60%
+      - name: 了解多线程 ；
+        level: 60%
+      - name: 了解 Datax 、Nacos 、 Gatetay、Seata、Neo4j 、Minio 、nlp 、http-flv等；
+        level: 60%
 
 experiences:
     title: 工作经历
@@ -229,29 +240,6 @@ certifications:
             Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
             Praesent venenatis erat non augue suscipit consectetur.
-
-
-skills:
-    title: 个人技能
-
-    toolset:
-      - name: 
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/shyuuy" target="_blank" rel="nofollow">shyuuy</a>
