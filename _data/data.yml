@@ -8,54 +8,51 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: 宋海阳
+    tagline: java后端开发
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: shyuuy@hotmail.com
+    phone: 19921878556
+    timezone: 山东/济南
+    citizenship: 历下区
+    website: 47.103.23.5:8081 #do not add http://
+    linkedin:
+    xing:
+    github: shyuuy
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: 语言
       info:
-        - idiom: English
-          level: Native
-
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
+        - idiom: 汉语
+          level: 母语
 
     interests:
-      title: Interests
+      title: 技能
       info:
-        - item: Climbing
+        - item: javaEE
           link:
 
-        - item: Snowboarding
+        - item: springBoot
           link:
 
-        - item: Cooking
+        - item: springCloud
+          link:
+          
+        - item: es
           link:
 
 career-profile:
-    title: Career Profile
+    title: 个人优势
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -90,7 +87,7 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: 工作经历
     info:
       - role: Lead Developer
         time: 2015 - Present
@@ -131,7 +128,7 @@ experiences:
             - Bullet point
 
 certifications:
-      title: Certifications
+      title: 教育经历
       list:
         - name: CV Builder
           start: 2020
@@ -172,7 +169,7 @@ certifications:
             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
+    title: 项目经历
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -240,10 +237,10 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: 个人技能
 
     toolset:
-      - name: Python & Django
+      - name: 
         level: 98%
 
       - name: Javascript & jQuery
@@ -262,4 +259,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/shyuuy" target="_blank" rel="nofollow">shyuuy</a>
