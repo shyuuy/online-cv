@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: 宋海阳
     tagline: java后端开发
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: https://avatars.githubusercontent.com/u/34265117?v=4  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: shyuuy@hotmail.com
