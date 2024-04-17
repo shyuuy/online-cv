@@ -57,7 +57,7 @@ skills:
     title: 个人技能
     toolset:
       - name: 1.熟悉 JavaEE、SpringMVC 、Shiro、springSecurity 、SpringCloud 、SpringBoot、Mybatis、Jpa等框架；
-        #level: 
+        level: 0%
       - name: 2.熟悉 Kafka 、RocketMQ、等中间件；
         level: 
       - name: 3.熟悉 SVN 、Git代码版本管理工具 ；
