@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: 宋海阳
-    tagline: java后端开发
+    tagline: java研发
     avatar: https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -107,11 +107,11 @@ experiences:
 oss:
     title: 个人技能
     intro: |
-        1.熟悉 JavaEE、SpringMVC 、Shiro、springSecurity 、SpringCloud 、SpringBoot、<br>&emsp;Mybatis、Jpa等框架；<br>
+        1.熟悉 JavaEE、SpringMVC 、Shiro、springSecurity 、SpringCloud 、SpringBoot、Mybatis、Jpa等框架；<br>
         2.熟悉 Kafka 、RocketMQ、等中间件；<br>
         3.熟悉 SVN 、Git代码版本管理工具 ；<br>
         4.熟悉 Oracle 、 Mysql 、Pgsql 、Redis 、Elasticsearch 、Solr 等数据库；<br>
-        5.熟悉 Vue 、ElementUI 、Vant、JS 、uni-app 、H5、Layui、Easyui、Bootstrap、<br>&emsp;&nbsp;Echarts 等前端技术 ;<br>
+        5.熟悉 Vue 、ElementUI 、Vant、JS 、uni-app 、H5、Layui、Easyui、Bootstrap、Echarts 等前端技术 ;<br>
         6.熟悉 Tomcat 、Nginx 等服务容器 ;<br>
         7.熟悉超算云 、天梯 、Devops、Docker、Jenkins 等部署平台 ；<br>
         8.了解多线程；<br>
