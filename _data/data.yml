@@ -192,15 +192,68 @@ publications:
             &nbsp;&nbsp;代码分支本地打包；<br>
             &nbsp;&nbsp;容器化和虚机环境项目部署;<br>
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "易问知识库产品线"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: 2021.01 - 2023.05
+        conference: |
+            &nbsp;&nbsp;产品是面向并不限于电信行业的集知识录入、知识管理、知识检索、知识展示等产品平台,产品覆盖 pc端,移动端,app等。<br>
+            &nbsp;&nbsp;产品基于 springboot 微服务开发架构,集成 solr和 es 双搜索引擎,并配置自研发实现的配置管理中心和多租户的实现,可无缝
+            切换数据源;集成 Activity 工作流以实现知识采编的审批等，使用基于nginx + session的权限认证，使用mybaits作为持久层框架，mysql、pgsql作为关系数据库；<br>
+            <h6>主要负责需求分析-功能设计-开发:</h6><br>
+            1. 知识分类权限管理；<br>
+            多维树状分类，快速导航，便于知识查找；<br>
+            基于用户和角色、部门、渠道的分类权限管理到节点域，权限精细化管理，在确保合理共享的同时，防止企业敏感信息泄密传播；<br>
+            2. 模版管理；<br>
+            模板配置：<br>
+            自定义知识模板、属性模板，数据模板精细化、可定制化；<br>
+            开启页签、发布区域、个性化、开启评论、门户体现等配置；<br>
+            条目配置：<br>
+            根据知识结构需要划分成若干条目、子条目，每个小条目可作为独立的知识被引用、更新;<br>
+            设置多种参数类型，将可以标准化的参数做成选项，减少录入错误的可能性。支持标准化的参数可视化配置；<br>
+            树形结构条目管理、控件类型、控件属性配置；<br>
+            3. 知识采编；<br>
+            多页签、多级条目、多行多列无固定格式等复杂结构化知识采编；<br>
+            知识条目的某一项或某几项内容，根据区域、渠道自定义内容采编和配置不同的查看权限；<br>
+            结构化制作关联知识/对内对外条目、名词解释、faq索引、faq索引组、自定义富文本；<br>
+            取消结构化、批量操作同步并更新子结构化、结构化复制粘贴等；<br>
+            知识内容版本管理、知识对比高亮显示差异内容、版本回退、寻找类似知识；<br>
+            知识销售品CPCP制作, 知识超链；<br>
+            知识属性配置，个性化配置单个知识的属性；<br>
+            知识文件在线预览（word、excel、pdf、视频、图片…）；<br>
+            知识日志管理；<br>
+            根据知识分类、发布渠道、发布用户、发布角色等不同维度设置知识权限;<br>
+            4. 知识门户；<br>
+            丰富的搜索功能，确保用户可以快速找到所需知识，提供知识标题、知识正文等全文检索功能；<br>
+            知识多维树图作为快速导航，便于知识查找；<br>
+            知识收藏、知识点赞、知识反馈、知识评价、知识版本对比、知识变更日志查看等功能；<br>
+            5. 知识上发；<br>
+            上发网厅、集团、综合客服系统；<br>
+            6. 平台升级/上线支持；<br>
+            产品工程 springboot1.5升级到2.3改造；<br>
+            代码管理、私服管理、Jenkins打包升级；<br>
 
-      - title: A syntax directed compiler for Algol 60
+      - title: SRM供应链管理
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: 2020.09 - 2020.12
+        conference: |
+            &nbsp;&nbsp;依托 java 技术实现的 srm 管理系统 ，主要包括采购订单管理 、供应商送货、财务结算管理等 ，使用 spring 、springMVC、 mybaits 等框架 ，sqlserver 作为持久化数据库 ，webservice 对接 sap和 wms 系统。<br>
+            <h6>主要负责功能设计-开发:</h6><br>
+            1. 供应商信息、物料等基本信息接入;<br>
+            2. 供应商针对采购订单订单接收确认;<br>
+            3. 采购订单拆单送货管理;<br>
+            4. sap入库凭证结算、审核、发票管理;<br>
+            5. 收货推送仓库系统;<br>
+        
+      - title: 在线约课微信小程序
+        link: "#"
+        authors: 2020.03 - 2020.08
+        conference: |
+            &nbsp;&nbsp;本项目为在线约课的微信小程序和后台管理系统。后端采用 springboot,mybaits ,结合vue+element 前后端分离的技术架构。 权限认证使用的 springSecurity ,并结合 mybatisplus 插件进行开发 。<br>
+            <h6>主要负责功能设计-开发:</h6><br>
+            1. 课程维护、检索、预约等;<br>
+            2. 老师管理、学生管理等模块功能；<br>
+            3. 订单管理、 课程管理；<br>
+            4. 集成微信登陆、微信支付；<br>
 
 
 #skills:
