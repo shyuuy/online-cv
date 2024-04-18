@@ -255,6 +255,56 @@ publications:
             3. 订单管理、 课程管理；<br>
             4. 集成微信登陆、微信支付；<br>
 
+      - title: 嘉航门户
+        link: "#"
+        authors: 2019.12 - 2020.02
+        conference: |
+            &nbsp;&nbsp;此项目为 springboot+springdatejpa+vue+element 组合架构,权限使用 Spring 全家桶的 springSecurity 进行菜单权限
+            控制。 本项目主要为甲方公司主营业务的展示，和对其产品的展示，使用Lucene 实现对于客户关注的相关咨询信息的快速检索
+            响应;<br>
+            <h6>主要负责功能设计-开发:</h6><br>
+            1. mybatis向 springdatejpa 技术迁移 ；<br>
+            2. 资讯管理; Lucene 实现全文内容检索等；<br>
+            3. 意见反馈；<br>
+            4. 上线支持；<br>
+            
+      - title: 淄博房地产
+        link: "#"
+        authors: 2019.06 - 2019.11
+        conference: |
+            &nbsp;&nbsp;此项目是淄博市房管局主导的类似58的一个门户网站。使是 springboot的架构,认证使用了 shiro,使用百度的 echarts 实
+            现的大屏展示，人机验证用的图片滑动,图压缩用的 thumbnailator ,缓存用的 redis ,使用 Lucene 实现的房产信息检索,前端使
+            用的layui框架。<br>
+            <h6>主要负责功能设计-开发:</h6><br>
+            1. 新房管理、二手房管理、房产信息检索；<br>
+            2. 经纪人管理、会员管理；<br>
+            3. 街道管理、小区管理；<br>
+            4. 广告管理、友联管理；<br>
+            5. 登录验证、人机验证；<br>
+            
+      - title: 易冷云
+        link: "#"
+        authors: 2018.11 - 2019.05
+        conference: |
+            &nbsp;&nbsp;这个项目是济南制冷设备公司的冷库管理系统,其系统覆盖pc , app 移动端;项目框架为 springboot ;持久层使用 mybatis , 视图层用的 freemarker 模版引擎,数据库用的 mysql ;前端用的 layui ;图表用的百度的 echarts ;短信用的阿里; 数据库驱动用的
+            也是阿里的;权限认证用的 shiro ;缓存用的 redis；使用js原生实现的组态。<br>
+            <h6>主要负责功能开发:</h6><br>
+            1. plc设备信息接入、设备能耗统计；<br>
+            2. 大屏驾驶舱；<br>
+            3. 巡检计划、巡检任务；<br>
+            4. 报修管理；<br>
+            5. 工单管理：派单/接单；<br>
+
+      - title: 在线约课微信小程序
+        link: "#"
+        authors: 2020.03 - 2020.08
+        conference: |
+            &nbsp;&nbsp;本系统主要针对企业客户单方面的对客户做出的一些管理,包括售前 、售中、售后;使用本系统,工作人员可以对公司业务的开
+            展进 行全面的了解和管理, 主要负责功能开发:<br>
+            1. 线索管理；<br>
+            2. 客户管理；<br>
+            3. 上线支持；<br>
+
 
 #skills:
  #   title: 个人技能
