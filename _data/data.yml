@@ -29,11 +29,11 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
 
-    interests:
-     title: 技能
-     info:
-       - item: javaEE  springBoot
-         link:
+    # interests:
+    #  title: 技能
+    #  info:
+    #    - item: javaEE  springBoot
+    #      link:
 
     #languages:
     #  title: 语言
