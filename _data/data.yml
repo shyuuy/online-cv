@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: 个人优势
     summary: |
-      &nbsp;&nbsp;&nbsp;&nbsp;本人多年 java开发经验，性格沉稳，富有幽默感，能够在紧张的工作环境中保持轻松愉悦的氛围。做事细致入微，耐心十足，
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本人多年 java开发经验，性格沉稳，富有幽默感，能够在紧张的工作环境中保持轻松愉悦的氛围。做事细致入微，耐心十足，
       对待工作充满责任心，能够确保任务的顺利完成。在团队合作中，我能够积极发挥个人的优势，与团队成员保持良好的沟通和
       协作，共同推进项目的进展。同时，我具备较强的适应能力，能够快速适应新的工作环境和任务要求。勤奋刻苦，善于思考，
       自学能力强，能够迅速掌握新技术，并灵活应用于实际工作中。在工作中，我注重不断学习和提升自己的能力，为团队的发展
@@ -107,7 +107,7 @@ experiences:
 oss:
     title: 个人技能
     intro: >
-        1.熟悉 JavaEE、SpringMVC 、Shiro、springSecurity 、SpringCloud 、SpringBoot、&nbsp;&nbsp;Mybatis、Jpa等框架；<br>
+        1.熟悉 JavaEE、SpringMVC 、Shiro、springSecurity 、SpringCloud 、SpringBoot、Mybatis、Jpa等框架；<br>
         2.熟悉 Kafka 、RocketMQ、等中间件；<br>
         3.熟悉 SVN 、Git代码版本管理工具 ；<br>
         4.熟悉 Oracle 、 Mysql 、Pgsql 、Redis 、Elasticsearch 、Solr 等数据库；<br>
@@ -115,7 +115,7 @@ oss:
         6.熟悉 Tomcat 、Nginx 等服务容器 ;<br>
         7.熟悉超算云 、天梯 、Devops、Docker、Jenkins 等部署平台 ；<br>
         8.了解多线程；<br>
-        9.了解 Datax 、Nacos 、 Gatetay、Seata、Neo4j 、Minio 、nlp 、http-flv等；"
+        9.了解 Datax 、Nacos 、 Gatetay、Seata、Neo4j 、Minio 、nlp 、http-flv等；
     # contributions:
     #   - title: 
     #     link: "#"
@@ -164,33 +164,33 @@ publications:
         link: "https://www.cailiaoai.com/"
         authors: 2023.05 - 至今
         conference: |
-            &nbsp;&nbsp;国网南瑞和山东产研院项目新型知识和内容检索服务,基于 sprinfboot、redis、es、jwt、nlp、kafka、mq 、图数
+            &emsp;国网南瑞和山东产研院项目新型知识和内容检索服务,基于 sprinfboot、redis、es、jwt、nlp、kafka、mq 、图数
             据、 python、datax、vue 等实现。通过 nlp和 python 对检索内容进行语意分析后对全文 ，问答，知识卡片进行检索
             展示。<br>
-            &nbsp;&nbsp;产品包括认知智能平台和数据决策机器人。<br>
-            &nbsp;&nbsp;其中认知智能平台基于语义化数据治理方法，将异构到数据关联在一起。通过实体、关系构建起企业的业务语义，包
+            &emsp;产品包括认知智能平台和数据决策机器人。<br>
+            &emsp;其中认知智能平台基于语义化数据治理方法，将异构到数据关联在一起。通过实体、关系构建起企业的业务语义，包
             括主数据实体、属性、主要业务事件。从而将将企业内部跨部门、多来源、异结构的数据通过图结构表达起来。为业务人
             员提供全企业360数据价值。<br>
-            &nbsp;&nbsp;数据决策机器人则通过语义化提问的方式，展现多种形式的数据答案，完成数据驱动决策。百度式提问，实时分析，
+            &emsp;数据决策机器人则通过语义化提问的方式，展现多种形式的数据答案，完成数据驱动决策。百度式提问，实时分析，
             随时可以查看数据；海量常用指标分析，丰富图标形式、交互式可视化，可从多维度分析与查看指标；<br>
             <h6>主要负责：</h6><br>
             1. 需求设计;<br>
-            &nbsp;&nbsp;需求确认,需求设计方案制定,实现方案评估等；<br>
-            &nbsp;&nbsp;相关技术文档输出；<br>
+            &ensp;需求确认,需求设计方案制定,实现方案评估等；<br>
+            &ensp;相关技术文档输出；<br>
             2. 定制化功能开发;<br>
-            &nbsp;&nbsp;集成rocketmq 异步通信；<br>
-            &nbsp;&nbsp;数据整合生成pdf文件；文件下载预览；<br>
-            &nbsp;&nbsp;soa 服务整合，统一服务入口、统一认证;<br>
-            &nbsp;&nbsp;单点登录服务中台;<br>
-            &nbsp;&nbsp;es 实现全文检索;<br>
-            &nbsp;&nbsp;微信登陆,微信支付,扫码支付,小程序内部支付;<br>
-            &nbsp;&nbsp;图谱数据任务、数据清洗；<br>
+            &ensp;集成rocketmq 异步通信；<br>
+            &ensp;数据整合生成pdf文件；文件下载预览；<br>
+            &ensp;soa 服务整合，统一服务入口、统一认证;<br>
+            &ensp;单点登录服务中台;<br>
+            &ensp;es 实现全文检索;<br>
+            &ensp;微信登陆,微信支付,扫码支付,小程序内部支付;<br>
+            &ensp;图谱数据任务、数据清洗；<br>
             3. 生产系统运行支持;<br>
-            &nbsp;&nbsp;运行过程中的 需求反馈分析、问题分配团队成员处理;<br>
-            &nbsp;&nbsp;db大数据整理分析与同步;<br>
+            &ensp;运行过程中的 需求反馈分析、问题分配团队成员处理;<br>
+            &ensp;大数据整理分析与同步;<br>
             4. 项目部署和维护;<br>
-            &nbsp;&nbsp;代码分支本地打包；<br>
-            &nbsp;&nbsp;容器化和虚机环境项目部署;<br>
+            &ensp;代码分支本地打包；<br>
+            &ensp;容器化和虚机环境项目部署;<br>
 
       - title: "易问知识库产品线"
         link: "#"
@@ -201,36 +201,36 @@ publications:
             切换数据源;集成 Activity 工作流以实现知识采编的审批等，使用基于nginx + session的权限认证，使用mybaits作为持久层框架，mysql、pgsql作为关系数据库；<br>
             <h6>主要负责需求分析-功能设计-开发:</h6><br>
             1. 知识分类权限管理；<br>
-            多维树状分类，快速导航，便于知识查找；<br>
-            基于用户和角色、部门、渠道的分类权限管理到节点域，权限精细化管理，在确保合理共享的同时，防止企业敏感信息泄密传播；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;多维树状分类，快速导航，便于知识查找；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;基于用户和角色、部门、渠道的分类权限管理到节点域，权限精细化管理，在确保合理共享的同时，防止企业敏感信息泄密传播；<br>
             2. 模版管理；<br>
-            模板配置：<br>
-            自定义知识模板、属性模板，数据模板精细化、可定制化；<br>
-            开启页签、发布区域、个性化、开启评论、门户体现等配置；<br>
-            条目配置：<br>
-            根据知识结构需要划分成若干条目、子条目，每个小条目可作为独立的知识被引用、更新;<br>
-            设置多种参数类型，将可以标准化的参数做成选项，减少录入错误的可能性。支持标准化的参数可视化配置；<br>
-            树形结构条目管理、控件类型、控件属性配置；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;模板配置：<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自定义知识模板、属性模板，数据模板精细化、可定制化；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;开启页签、发布区域、个性化、开启评论、门户体现等配置；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;条目配置：<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根据知识结构需要划分成若干条目、子条目，每个小条目可作为独立的知识被引用、更新;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;设置多种参数类型，将可以标准化的参数做成选项，减少录入错误的可能性。支持标准化的参数可视化配置；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;树形结构条目管理、控件类型、控件属性配置；<br>
             3. 知识采编；<br>
-            多页签、多级条目、多行多列无固定格式等复杂结构化知识采编；<br>
-            知识条目的某一项或某几项内容，根据区域、渠道自定义内容采编和配置不同的查看权限；<br>
-            结构化制作关联知识/对内对外条目、名词解释、faq索引、faq索引组、自定义富文本；<br>
-            取消结构化、批量操作同步并更新子结构化、结构化复制粘贴等；<br>
-            知识内容版本管理、知识对比高亮显示差异内容、版本回退、寻找类似知识；<br>
-            知识销售品CPCP制作, 知识超链；<br>
-            知识属性配置，个性化配置单个知识的属性；<br>
-            知识文件在线预览（word、excel、pdf、视频、图片…）；<br>
-            知识日志管理；<br>
-            根据知识分类、发布渠道、发布用户、发布角色等不同维度设置知识权限;<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;多页签、多级条目、多行多列无固定格式等复杂结构化知识采编；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;知识条目的某一项或某几项内容，根据区域、渠道自定义内容采编和配置不同的查看权限；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;结构化制作关联知识/对内对外条目、名词解释、faq索引、faq索引组、自定义富文本；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;取消结构化、批量操作同步并更新子结构化、结构化复制粘贴等；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;知识内容版本管理、知识对比高亮显示差异内容、版本回退、寻找类似知识；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;知识销售品CPCP制作, 知识超链；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;知识属性配置，个性化配置单个知识的属性；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;知识文件在线预览（word、excel、pdf、视频、图片…）；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;知识日志管理；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;根据知识分类、发布渠道、发布用户、发布角色等不同维度设置知识权限;<br>
             4. 知识门户；<br>
-            丰富的搜索功能，确保用户可以快速找到所需知识，提供知识标题、知识正文等全文检索功能；<br>
-            知识多维树图作为快速导航，便于知识查找；<br>
-            知识收藏、知识点赞、知识反馈、知识评价、知识版本对比、知识变更日志查看等功能；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;丰富的搜索功能，确保用户可以快速找到所需知识，提供知识标题、知识正文等全文检索功能；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;知识多维树图作为快速导航，便于知识查找；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;知识收藏、知识点赞、知识反馈、知识评价、知识版本对比、知识变更日志查看等功能；<br>
             5. 知识上发；<br>
-            上发网厅、集团、综合客服系统；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;上发网厅、集团、综合客服系统；<br>
             6. 平台升级/上线支持；<br>
-            产品工程 springboot1.5升级到2.3改造；<br>
-            代码管理、私服管理、Jenkins打包升级；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;产品工程 springboot1.5升级到2.3改造；<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;代码管理、私服管理、Jenkins打包升级；<br>
 
       - title: SRM供应链管理
         link: "#"
