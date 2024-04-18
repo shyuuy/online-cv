@@ -269,7 +269,7 @@ publications:
             4. 上线支持；<br>
             
       - title: 淄博房地产
-        link: "#"
+        link: "http://www.zbfdc.com.cn"
         authors: 2019.06 - 2019.11
         conference: |
             &nbsp;&nbsp;此项目是淄博市房管局主导的类似58的一个门户网站。使是 springboot的架构,认证使用了 shiro,使用百度的 echarts 实
@@ -283,7 +283,7 @@ publications:
             5. 登录验证、人机验证；<br>
             
       - title: 易冷云
-        link: "#"
+        link: "http://www.e-cool.com"
         authors: 2018.11 - 2019.05
         conference: |
             &nbsp;&nbsp;这个项目是济南制冷设备公司的冷库管理系统,其系统覆盖pc , app 移动端;项目框架为 springboot ;持久层使用 mybatis , 视图层用的 freemarker 模版引擎,数据库用的 mysql ;前端用的 layui ;图表用的百度的 echarts ;短信用的阿里; 数据库驱动用的
@@ -295,12 +295,13 @@ publications:
             4. 报修管理；<br>
             5. 工单管理：派单/接单；<br>
 
-      - title: 在线约课微信小程序
+      - title: CRM客户管理系统
         link: "#"
-        authors: 2020.03 - 2020.08
+        authors: 2018.08 - 2018.10
         conference: |
             &nbsp;&nbsp;本系统主要针对企业客户单方面的对客户做出的一些管理,包括售前 、售中、售后;使用本系统,工作人员可以对公司业务的开
             展进 行全面的了解和管理, 主要负责功能开发:<br>
+            <h6>主要负责功能开发:</h6><br>
             1. 线索管理；<br>
             2. 客户管理；<br>
             3. 上线支持；<br>
