@@ -38,11 +38,11 @@ sidebar:
       #  - idiom: 英语
        #   level: 
           
-   # interests:
-    #  title: 技能
-     # info:
-      #  - item: javaEE  springBoot
-       #   link:
+   interests:
+     title: 技能
+     info:
+       - item: javaEE  springBoot
+         link:
 
 career-profile:
     title: 个人优势
