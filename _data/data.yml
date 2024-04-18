@@ -162,7 +162,7 @@ publications:
     papers:
       - title: 图谱智能搜索产品
         link: "https://www.cailiaoai.com/"
-        authors: &nbsp;&nbsp;&nbsp;&nbsp;2023.05 - 至今
+        authors: 2023.05 - 至今
         conference: |
             &nbsp;&nbsp;国网南瑞和山东产研院项目新型知识和内容检索服务,基于 sprinfboot、redis、es、jwt、nlp、kafka、mq 、图数
             据、 python、datax、vue 等实现。通过 nlp和 python 对检索内容进行语意分析后对全文 ，问答，知识卡片进行检索
@@ -194,7 +194,7 @@ publications:
 
       - title: "易问知识库产品线"
         link: "#"
-        authors: &nbsp;&nbsp;&nbsp;&nbsp;2021.01 - 2023.05
+        authors: 2021.01 - 2023.05
         conference: |
             &nbsp;&nbsp;产品是面向并不限于电信行业的集知识录入、知识管理、知识检索、知识展示等产品平台,产品覆盖 pc端,移动端,app等。<br>
             &nbsp;&nbsp;产品基于 springboot 微服务开发架构,集成 solr和 es 双搜索引擎,并配置自研发实现的配置管理中心和多租户的实现,可无缝
@@ -234,7 +234,7 @@ publications:
 
       - title: SRM供应链管理
         link: "#"
-        authors: &nbsp;&nbsp;&nbsp;&nbsp;2020.09 - 2020.12
+        authors: 2020.09 - 2020.12
         conference: |
             &nbsp;&nbsp;依托 java 技术实现的 srm 管理系统 ，主要包括采购订单管理 、供应商送货、财务结算管理等 ，使用 spring 、springMVC、 mybaits 等框架 ，sqlserver 作为持久化数据库 ，webservice 对接 sap和 wms 系统。<br>
             <h6>主要负责功能设计-开发:</h6><br>
@@ -246,7 +246,7 @@ publications:
         
       - title: 在线约课微信小程序
         link: "#"
-        authors: &nbsp;&nbsp;&nbsp;&nbsp;2020.03 - 2020.08
+        authors: 2020.03 - 2020.08
         conference: |
             &nbsp;&nbsp;本项目为在线约课的微信小程序和后台管理系统。后端采用 springboot,mybaits ,结合vue+element 前后端分离的技术架构。 权限认证使用的 springSecurity ,并结合 mybatisplus 插件进行开发 。<br>
             <h6>主要负责功能设计-开发:</h6><br>
@@ -257,7 +257,7 @@ publications:
 
       - title: 嘉航门户
         link: "#"
-        authors: &nbsp;&nbsp;&nbsp;&nbsp;2019.12 - 2020.02
+        authors: 2019.12 - 2020.02
         conference: |
             &nbsp;&nbsp;此项目为 springboot+springdatejpa+vue+element 组合架构,权限使用 Spring 全家桶的 springSecurity 进行菜单权限
             控制。 本项目主要为甲方公司主营业务的展示，和对其产品的展示，使用Lucene 实现对于客户关注的相关咨询信息的快速检索
@@ -270,7 +270,7 @@ publications:
             
       - title: 淄博房地产
         link: "http://www.zbfdc.com.cn"
-        authors: &nbsp;&nbsp;&nbsp;&nbsp;2019.06 - 2019.11
+        authors: 2019.06 - 2019.11
         conference: |
             &nbsp;&nbsp;此项目是淄博市房管局主导的类似58的一个门户网站。使是 springboot的架构,认证使用了 shiro,使用百度的 echarts 实
             现的大屏展示，人机验证用的图片滑动,图压缩用的 thumbnailator ,缓存用的 redis ,使用 Lucene 实现的房产信息检索,前端使
@@ -284,7 +284,7 @@ publications:
             
       - title: 易冷云
         link: "http://www.e-cool.com"
-        authors: &nbsp;&nbsp;&nbsp;&nbsp;2018.11 - 2019.05
+        authors: 2018.11 - 2019.05
         conference: |
             &nbsp;&nbsp;这个项目是济南制冷设备公司的冷库管理系统,其系统覆盖pc , app 移动端;项目框架为 springboot ;持久层使用 mybatis , 视图层用的 freemarker 模版引擎,数据库用的 mysql ;前端用的 layui ;图表用的百度的 echarts ;短信用的阿里; 数据库驱动用的
             也是阿里的;权限认证用的 shiro ;缓存用的 redis；使用js原生实现的组态。<br>
@@ -297,7 +297,7 @@ publications:
 
       - title: CRM客户管理系统
         link: "#"
-        authors: &nbsp;&nbsp;&nbsp;&nbsp;2018.08 - 2018.10
+        authors: 2018.08 - 2018.10
         conference: |
             &nbsp;&nbsp;本系统主要针对企业客户单方面的对客户做出的一些管理,包括售前 、售中、售后;使用本系统,工作人员可以对公司业务的开
             展进 行全面的了解和管理, 主要负责功能开发:<br>
